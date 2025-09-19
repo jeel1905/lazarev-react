@@ -5,13 +5,13 @@ const videos = [
     title: "Accern. Rhea",
     desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit inventore enim, quos, qui est id, architecto libero in esse vel officiis repellat alias maxime minima.",
     imgSrc: "https://assets-global.website-files.com/64a5e6675a4159253d0ee3e0/65a93ac90b586168e5917ac8_Rhea%20-%20cover_horizontal_low.webp",
-    videoSrc: "./src/assets/accern-rhea-cover-big.mp4",
+    videoSrc: "./public/assets/accern-rhea-cover-big.mp4",
   },
   {
     title: "AfroTech",
     desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit inventore enim, quos, qui est id, architecto libero in esse vel officiis repellat alias maxime minima.",
     imgSrc: "https://assets-global.website-files.com/64a5e6675a4159253d0ee3e0/65cb66041ce86ac3784aaba1_Afrotech%20-%20cover_horizontal.webp",
-    videoSrc: "./src/assets/afrotech-cover-big.mp4",
+    videoSrc: "./public/assets/afrotech-cover-big.mp4",
   },
 ];
 

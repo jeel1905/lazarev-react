@@ -1,6 +1,6 @@
 import { useEffect, useRef } from "react";
-import blockbeatImg from "../assets/Blockbeat.png";
-import payoneerImg from "../assets/payoneer.png";
+import blockbeatImg from "/assets/Blockbeat.png";
+import payoneerImg from "/assets/payoneer.png";
 
 const Page5 = () => {
   const right1Ref = useRef(null);

@@ -44,7 +44,7 @@ const Page3 = () => {
     <div id="page3">
       <video
         ref={videoRef}
-        src="./public/assets/la-reel--min.mp4"
+        src="./src/assets/la-reel--min.mp4"
         className="w-full h-full object-cover"
         style={{ scaleX: 0.7, scaleY: 0, opacity: 0, borderRadius: '30px' }}
       ></video>
